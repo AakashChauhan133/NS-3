@@ -1,6 +1,6 @@
 /*****************installation of netanim in ns3**************************/
 
-synaptic => install g++, qt5-qmake, libqt5-dev libxml2-dev
+synaptic => install g++, qt5-qmake, libxml2-dev
 
 go to directory 
 	aakash@aakash:~/ns-3/ns-allinone-3.36.1/netanim-3.108
